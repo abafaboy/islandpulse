@@ -6,7 +6,7 @@
 Epic publishes daily player metrics for every public, discoverable Fortnite
 island (unique players, plays, peak concurrent players, minutes played,
 favorites, recommendations, day-1 and day-7 retention), with no API key.
-Epic doesn't ship an SDK, and the only existing client is an R package. islandpulse is:
+Epic doesn't ship an SDK, and the only client I could find (September 2026) is an R package. islandpulse is:
 
 - a **Python library** (standard library only, Python 3.10+) with typed
   results, cursor pagination, polite retries and clear errors;
