@@ -1,0 +1,6 @@
+# Island codes archived daily by .github/workflows/archive.yml
+# One code per line (form 1234-5678-9012); '#' starts a comment.
+# These three are only examples: replace them with your own islands.
+0925-4822-4538
+1321-3263-2308
+9752-7254-5801
